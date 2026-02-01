@@ -1,0 +1,11 @@
+{
+  "name": "server-expo",
+  "version": "1.0.0",
+  "description": "un servidor para una exposicion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oscar, oliver y samuel",
+  "license": "ISC"
+}
